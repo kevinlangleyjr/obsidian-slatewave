@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="docs/logo.png" alt="Slatewave logo" width="840" />
+<img src="docs/logo.png" alt="Slatewave" width="840" />
 
 # Slatewave (Obsidian)
 
-A dark Obsidian theme on a slate foundation with a teal signature. Designed as a twin to the [Slatewave VSCode theme](https://github.com/kevinlangleyjr/vscode-slatewave) and the [Slatewave oh-my-posh prompt](https://github.com/kevinlangleyjr/slatewave-omp) — editor, terminal, and notes share a single color vocabulary.
+A dark [Obsidian](https://obsidian.md) theme on a slate foundation with a teal signature. Part of the [Slatewave family](#slatewave-family) — one palette across editors, terminals, prompts, notes, and more.
 
 > _Slate below, teal above._
 
@@ -86,13 +86,19 @@ Enable the snippet in **Settings → Appearance → CSS snippets**. Snippets loa
 
 ---
 
-## Companion themes
+## Slatewave family
 
-Slatewave is one palette, three surfaces. Run all three and your editor, terminal, and notes speak the same visual language.
+One palette. Every tool.
 
-- **Editor** — [vscode-slatewave](https://github.com/kevinlangleyjr/vscode-slatewave)
-- **Prompt** — [slatewave-omp](https://github.com/kevinlangleyjr/slatewave-omp)
-- **Notes** — this repo
+- **Editors** — [VSCode](https://github.com/kevinlangleyjr/vscode-slatewave) · [Neovim](https://github.com/kevinlangleyjr/neovim-slatewave) · [Helix](https://github.com/kevinlangleyjr/helix-slatewave) · [Zed](https://github.com/kevinlangleyjr/zed-slatewave) · [Sublime Text](https://github.com/kevinlangleyjr/sublime-text-slatewave) · [JetBrains](https://github.com/kevinlangleyjr/jetbrains-slatewave)
+- **Terminals** — [Alacritty](https://github.com/kevinlangleyjr/alacritty-slatewave) · [Ghostty](https://github.com/kevinlangleyjr/ghostty-slatewave) · [iTerm2](https://github.com/kevinlangleyjr/iterm2-slatewave) · [WezTerm](https://github.com/kevinlangleyjr/wezterm-slatewave) · [Windows Terminal](https://github.com/kevinlangleyjr/windows-terminal-slatewave)
+- **Prompts** — [Oh My Posh](https://github.com/kevinlangleyjr/slatewave-omp) · [Starship](https://github.com/kevinlangleyjr/starship-slatewave)
+- **Multiplexer** — [tmux](https://github.com/kevinlangleyjr/tmux-slatewave)
+- **Notes** — [Logseq](https://github.com/kevinlangleyjr/logseq-slatewave)
+- **Launchers** — [Alfred](https://github.com/kevinlangleyjr/alfred-slatewave) · [Raycast](https://github.com/kevinlangleyjr/raycast-slatewave)
+- **Chat** — [Slack](https://github.com/kevinlangleyjr/slack-slatewave)
+
+See [getslatewave.com](https://getslatewave.com) for the full family.
 
 ---
 
