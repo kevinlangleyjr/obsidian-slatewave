@@ -39,7 +39,11 @@ Both dark and light modes are included. Dark is the primary target.
 
 ### From the Community Theme browser
 
-_(TBD — not yet published)_
+1. Open **Settings → Appearance → Themes → Manage**
+2. Search for **Slatewave**
+3. Click **Install**, then **Use**
+
+Or visit the [directory entry](https://obsidian.md/themes?search=slatewave) directly.
 
 ### From a local clone
 
